@@ -1,1 +1,1 @@
-just random dsa stuff in c++. i think everything works, idk.
+i think everything works, idk.
